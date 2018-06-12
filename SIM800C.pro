@@ -1,4 +1,4 @@
-update=25-May-18 4:18:46 PM
+update=6/10/2018 6:11:08 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -66,3 +66,15 @@ LibName34=C:/Users/Airchip/Documents/Baskı/ATMega2560/ATMega2560/SJ2-35984E-SMT
 LibName35=C:/Users/Airchip/Documents/Baskı/ATMega2560/ATMega2560/SJ-2504A-SMT-TR/SJ-2504A-SMT-TR
 LibName36=C:/Users/Airchip/Documents/Baskı/ATMega2560/ATMega2560/SIM800C/SIM800C
 LibName37=C:/Users/Airchip/Documents/Baskı/ATMega2560/ATMega2560/ATMega2560-cache
+LibName38=C:/Users/AirCHIP-2/Documents/airchip-monster/footprints/kicad-mini-pci-express/mpcie
+LibName39=C:/Users/AirCHIP-2/Documents/airchip-monster/symbols/ESDA6V1-5W6
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
